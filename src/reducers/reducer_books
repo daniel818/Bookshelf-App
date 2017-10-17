@@ -1,0 +1,9 @@
+export default function(){
+    return [
+        {title: 'JavaScript', pages:100},
+        {title:'Harry potter', pages:109},
+        {title:'the dark tower', pages:80},
+        {title:'ruby', pages:60}
+
+    ];
+}
